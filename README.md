@@ -1,6 +1,6 @@
-# AIOJF: releases
+# AIO Jellyfin: releases
 
-Release builds of **AIOJF**, an Unfolded Circle Remote Two / Remote 3 custom integration that shows what your TV is playing (title, series and episode, artwork, progress, and who's watching), from the Jellyfin-compatible server built into AIOMetadata or AIOStreams.
+Release builds of **AIO Jellyfin** (`uc-intg-aiojf`), an Unfolded Circle Remote Two / Remote 3 custom integration that shows what your TV is playing (title, series and episode, artwork, progress, and who's watching), from the Jellyfin-compatible server built into AIOMetadata or AIOStreams.
 
 This repository only hosts release archives. The source code is private.
 
